@@ -1,8 +1,33 @@
 {
-  "updatedAt": "2026-06-11T00:00:00Z",
+  "updatedAt": "2026-06-12T06:22:16.382Z",
   "users": [
-    { "id": "seed-1", "nick": "PitchWizard", "total": 1840, "streak": 14, "lastDay": "2026-06-11" },
-    { "id": "seed-2", "nick": "GoalMachine", "total": 1620, "streak": 9, "lastDay": "2026-06-11" },
-    { "id": "seed-3", "nick": "TikiTaka", "total": 1290, "streak": 7, "lastDay": "2026-06-10" }
+    {
+      "id": "seed-1",
+      "nick": "PitchWizard",
+      "total": 1840,
+      "streak": 14,
+      "lastDay": "2026-06-11"
+    },
+    {
+      "id": "seed-2",
+      "nick": "GoalMachine",
+      "total": 1620,
+      "streak": 9,
+      "lastDay": "2026-06-11"
+    },
+    {
+      "id": "seed-3",
+      "nick": "TikiTaka",
+      "total": 1290,
+      "streak": 7,
+      "lastDay": "2026-06-10"
+    },
+    {
+      "id": "EACB7AD6-062F-4E33-A201-82D255261300",
+      "nick": "Bantik",
+      "total": 10,
+      "streak": 1,
+      "lastDay": "2026-06-12T06:22:16.382Z"
+    }
   ]
 }
