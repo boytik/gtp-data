@@ -1,8 +1,0 @@
-{
-  "updatedAt": "2026-06-11T00:00:00Z",
-  "users": [
-    { "id": "seed-1", "nick": "PitchWizard", "total": 1840, "streak": 14, "lastDay": "2026-06-11" },
-    { "id": "seed-2", "nick": "GoalMachine", "total": 1620, "streak": 9, "lastDay": "2026-06-11" },
-    { "id": "seed-3", "nick": "TikiTaka", "total": 1290, "streak": 7, "lastDay": "2026-06-10" }
-  ]
-}
