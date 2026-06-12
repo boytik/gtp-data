@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "generatedAt": "2026-06-12T08:12:35.547Z",
+  "players": [
+    {
+      "id": "robert-lewandowski",
+      "name": "Robert Lewandowski",
+      "aliases": [
+        "Lewy"
+      ],
+      "position": "forward",
+      "nationality": "Poland",
+      "club": "Barcelona",
+      "league": "La Liga",
+      "age": 34,
+      "shirtNumber": 9,
+      "clues": [
+        "Tall striker",
+        "European champ",
+        "Scores many goals",
+        "Fast and strong",
+        "Played in Germany",
+        "Won FIFA award"
+      ]
+    },
+    {
+      "id": "kevin-de-bruyne",
+      "name": "Kevin De Bruyne",
+      "aliases": [
+        "KDB"
+      ],
+      "position": "midfielder",
+      "nationality": "Belgium",
+      "club": "Manchester City",
+      "league": "Premier League",
+      "age": 31,
+      "shirtNumber": 17,
+      "clues": [
+        "Creative midfielder",
+        "Assists many goals",
+        "Plays in England",
+        "Won league titles",
+        "Skilled with both feet",
+        "Played for Genk"
+      ]
+    },
+    {
+      "id": "virgil-van-dijk",
+      "name": "Virgil van Dijk",
+      "aliases": [
+        "VVD"
+      ],
+      "position": "defender",
+      "nationality": "Netherlands",
+      "club": "Liverpool",
+      "league": "Premier League",
+      "age": 31,
+      "shirtNumber": 4,
+      "clues": [
+        "Tall defender",
+        "Won Champions League",
+        "Plays in England",
+        "Strong in air",
+        "Signed from Saints",
+        "UEFA best defender"
+      ]
+    },
+    {
+      "id": "alisson-becker",
+      "name": "Alisson Becker",
+      "aliases": [
+        "Alisson"
+      ],
+      "position": "goalkeeper",
+      "nationality": "Brazil",
+      "club": "Liverpool",
+      "league": "Premier League",
+      "age": 30,
+      "shirtNumber": 1,
+      "clues": [
+        "Brazilian keeper",
+        "Won Golden Glove",
+        "Plays in England",
+        "Good with feet",
+        "Signed from Roma",
+        "Premier League winner"
+      ]
+    },
+    {
+      "id": "erling-haaland",
+      "name": "Erling Haaland",
+      "aliases": [
+        "Haaland"
+      ],
+      "position": "forward",
+      "nationality": "Norway",
+      "club": "Manchester City",
+      "league": "Premier League",
+      "age": 22,
+      "shirtNumber": 9,
+      "clues": [
+        "Young striker",
+        "Scores many goals",
+        "Plays in England",
+        "Fast and strong",
+        "Signed from Dortmund",
+        "Won Golden Boy award"
+      ]
+    },
+    {
+      "id": "luka-modric",
+      "name": "Luka Modric",
+      "aliases": [
+        "Modrić"
+      ],
+      "position": "midfielder",
+      "nationality": "Croatia",
+      "club": "Real Madrid",
+      "league": "La Liga",
+      "age": 37,
+      "shirtNumber": 10,
+      "clues": [
+        "Experienced midfielder",
+        "Won Ballon d'Or",
+        "Plays in Spain",
+        "Skilled passer",
+        "Won Champions League",
+        "FIFA best player"
+      ]
+    },
+    {
+      "id": "andrew-robertson",
+      "name": "Andrew Robertson",
+      "aliases": [
+        "Robbo"
+      ],
+      "position": "defender",
+      "nationality": "Scotland",
+      "club": "Liverpool",
+      "league": "Premier League",
+      "age": 28,
+      "shirtNumber": 26,
+      "clues": [
+        "Attacking fullback",
+        "Won Champions League",
+        "Plays in England",
+        "Good crosser",
+        "Signed from Hull",
+        "Scotland captain"
+      ]
+    },
+    {
+      "id": "nico-schulz",
+      "name": "Nico Schulz",
+      "aliases": [
+        "Schulz"
+      ],
+      "position": "defender",
+      "nationality": "Germany",
+      "club": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "age": 29,
+      "shirtNumber": 14,
+      "clues": [
+        "German fullback",
+        "Plays in Germany",
+        "Good going forward",
+        "Signed from Hoffenheim",
+        "Won U21 Euros",
+        "World Cup winner"
+      ]
+    },
+    {
+      "id": "sebastian-haller",
+      "name": "Sebastien Haller",
+      "aliases": [
+        "Haller"
+      ],
+      "position": "forward",
+      "nationality": "Ivory Coast",
+      "club": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "age": 28,
+      "shirtNumber": 9,
+      "clues": [
+        "African striker",
+        "Plays in Germany",
+        "Good in air",
+        "Signed from West Ham",
+        "Won U20 World Cup",
+        "Scored in Champions League"
+      ]
+    },
+    {
+      "id": "jude-bellingham",
+      "name": "Jude Bellingham",
+      "aliases": [
+        "Bellingham"
+      ],
+      "position": "midfielder",
+      "nationality": "England",
+      "club": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "age": 19,
+      "shirtNumber": 22,
+      "clues": [
+        "Young English midfielder",
+        "Plays in Germany",
+        "Skilled dribbler",
+        "Signed from Birmingham",
+        "Won FA Cup",
+        "EURO U21 finalist"
+      ]
+    },
+    {
+      "id": "dayot-upamecano",
+      "name": "Dayot Upamecano",
+      "aliases": [
+        "Upamecano"
+      ],
+      "position": "defender",
+      "nationality": "France",
+      "club": "Bayern Munich",
+      "league": "Bundesliga",
+      "age": 24,
+      "shirtNumber": 2,
+      "clues": [
+        "Young French defender",
+        "Plays in Germany",
+        "Strong in tackle",
+        "Signed from Leipzig",
+        "Won U17 Euros",
+        "French league winner"
+      ]
+    },
+    {
+      "id": "mohamed-salah",
+      "name": "Mohamed Salah",
+      "aliases": [
+        "Salah"
+      ],
+      "position": "forward",
+      "nationality": "Egypt",
+      "club": "Liverpool",
+      "league": "Premier League",
+      "age": 30,
+      "shirtNumber": 11,
+      "clues": [
+        "African winger",
+        "Won Champions League",
+        "Plays in England",
+        "Fast and skilled",
+        "Signed from Roma",
+        "African Footballer"
+      ]
+    },
+    {
+      "id": "frenkie-de-jong",
+      "name": "Frenkie de Jong",
+      "aliases": [
+        "De Jong"
+      ],
+      "position": "midfielder",
+      "nationality": "Netherlands",
+      "club": "Barcelona",
+      "league": "La Liga",
+      "age": 25,
+      "shirtNumber": 21,
+      "clues": [
+        "Dutch midfielder",
+        "Plays in Spain",
+        "Skilled passer",
+        "Signed from Ajax",
+        "Won U19 Euros",
+        "La Liga winner"
+      ]
+    },
+    {
+      "id": "josko-gvardiol",
+      "name": "Josko Gvardiol",
+      "aliases": [
+        "Gvardiol"
+      ],
+      "position": "defender",
+      "nationality": "Croatia",
+      "club": "RB Leipzig",
+      "league": "Bundesliga",
+      "age": 21,
+      "shirtNumber": 32,
+      "clues": [
+        "Young Croatian defender",
+        "Plays in Germany",
+        "Strong in air",
+        "Signed from Dinamo",
+        "Won U21 Euros",
+        "Croatian league winner"
+      ]
+    },
+    {
+      "id": "rodri-hernandez",
+      "name": "Rodri Hernandez",
+      "aliases": [
+        "Rodri"
+      ],
+      "position": "midfielder",
+      "nationality": "Spain",
+      "club": "Manchester City",
+      "league": "Premier League",
+      "age": 26,
+      "shirtNumber": 16,
+      "clues": [
+        "Spanish midfielder",
+        "Plays in England",
+        "Skilled passer",
+        "Signed from Atletico",
+        "Won U19 Euros",
+        "Premier League winner"
+      ]
+    },
+    {
+      "id": "bernardo-silva",
+      "name": "Bernardo Silva",
+      "aliases": [
+        "Silva"
+      ],
+      "position": "midfielder",
+      "nationality": "Portugal",
+      "club": "Manchester City",
+      "league": "Premier League",
+      "age": 28,
+      "shirtNumber": 20,
+      "clues": [
+        "Portuguese midfielder",
+        "Plays in England",
+        "Skilled dribbler",
+        "Signed from Monaco",
+        "Won U21 Euros",
+        "Premier League winner"
+      ]
+    },
+    {
+      "id": "phil-foden",
+      "name": "Phil Foden",
+      "aliases": [
+        "Foden"
+      ],
+      "position": "midfielder",
+      "nationality": "England",
+      "club": "Manchester City",
+      "league": "Premier League",
+      "age": 22,
+      "shirtNumber": 47,
+      "clues": [
+        "Young English midfielder",
+        "Plays in England",
+        "Skilled passer",
+        "Won U17 World Cup",
+        "Signed from City youth",
+        "Premier League winner"
+      ]
+    },
+    {
+      "id": "aymeric-laporte",
+      "name": "Aymeric Laporte",
+      "aliases": [
+        "Laporte"
+      ],
+      "position": "defender",
+      "nationality": "France",
+      "club": "Manchester City",
+      "league": "Premier League",
+      "age": 28,
+      "shirtNumber": 14,
+      "clues": [
+        "French defender",
+        "Plays in England",
+        "Strong in air",
+        "Signed from Athletic",
+        "Won U19 Euros",
+        "Premier League winner"
+      ]
+    },
+    {
+      "id": "raphael-guerreiro",
+      "name": "Raphael Guerreiro",
+      "aliases": [
+        "Guerreiro"
+      ],
+      "position": "defender",
+      "nationality": "Portugal",
+      "club": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "age": 29,
+      "shirtNumber": 13,
+      "clues": [
+        "Portuguese fullback",
+        "Plays in Germany",
+        "Good going forward",
+        "Signed from Lorient",
+        "Won U21 Euros",
+        "EURO winner"
+      ]
+    },
+    {
+      "id": "thiago-alcantara",
+      "name": "Thiago Alcantara",
+      "aliases": [
+        "Thiago"
+      ],
+      "position": "midfielder",
+      "nationality": "Spain",
+      "club": "Liverpool",
+      "league": "Premier League",
+      "age": 31,
+      "shirtNumber": 6,
+      "clues": [
+        "Experienced midfielder",
+        "Plays in England",
+        "Skilled passer",
+        "Signed from Bayern",
+        "Won Champions League",
+        "La Liga winner"
+      ]
+    }
+  ]
+}
