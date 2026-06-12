@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T08:12:35.547Z",
+  "generatedAt": "2026-06-12T08:42:11.109Z",
   "players": [
     {
       "id": "robert-lewandowski",
@@ -15,12 +15,12 @@
       "age": 34,
       "shirtNumber": 9,
       "clues": [
-        "Tall striker",
-        "European champ",
-        "Scores many goals",
-        "Fast and strong",
-        "Played in Germany",
-        "Won FIFA award"
+        "A modern No.9 who defined a generation up front",
+        "Raised in Eastern Europe before a teenage move to Germany",
+        "Lethal with both feet inside the box",
+        "Starred in Germany and England before his current move",
+        "Has won multiple league titles and a continental crown",
+        "Now the focal point of a Catalan giant's attack"
       ]
     },
     {
@@ -36,12 +36,12 @@
       "age": 31,
       "shirtNumber": 17,
       "clues": [
-        "Creative midfielder",
-        "Assists many goals",
-        "Plays in England",
-        "Won league titles",
-        "Skilled with both feet",
-        "Played for Genk"
+        "A creative force in the modern midfield era",
+        "From a small European nation with a rich football history",
+        "Dictates the tempo with extraordinary vision and passing",
+        "Developed in Belgium and England before joining a Manchester giant",
+        "Has won multiple league titles and individual accolades",
+        "Key component of a dominant Premier League side"
       ]
     },
     {
@@ -57,12 +57,12 @@
       "age": 31,
       "shirtNumber": 4,
       "clues": [
-        "Tall defender",
-        "Won Champions League",
-        "Plays in England",
-        "Strong in air",
-        "Signed from Saints",
-        "UEFA best defender"
+        "A commanding figure in the modern defensive landscape",
+        "Hails from a nation famous for its Total Football philosophy",
+        "Exceptional in the air and with his reading of the game",
+        "Rose to prominence in Scotland and England's top tiers",
+        "Has led his team to Champions League and domestic success",
+        "Marshals the defense of a Merseyside football powerhouse"
       ]
     },
     {
@@ -78,12 +78,12 @@
       "age": 30,
       "shirtNumber": 1,
       "clues": [
-        "Brazilian keeper",
-        "Won Golden Glove",
-        "Plays in England",
-        "Good with feet",
-        "Signed from Roma",
-        "Premier League winner"
+        "A sweeper-keeper archetype of the modern game",
+        "From the land of samba and sun-kissed beaches",
+        "Known for his exceptional distribution and reflexes",
+        "Came to prominence in Brazil and Italy before England",
+        "Has won the Champions League and Premier League Golden Glove",
+        "Guards the net for a storied Liverpool side"
       ]
     },
     {
@@ -99,12 +99,12 @@
       "age": 22,
       "shirtNumber": 9,
       "clues": [
-        "Young striker",
-        "Scores many goals",
-        "Plays in England",
-        "Fast and strong",
-        "Signed from Dortmund",
-        "Won Golden Boy award"
+        "A goal-scoring phenomenon of the new generation",
+        "From a Nordic nation with a growing football reputation",
+        "Clinical finisher with incredible speed and power",
+        "Rose to fame in Austria and Germany before his current move",
+        "Has broken numerous records for his age and position",
+        "Now spearheads the attack of a Manchester football giant"
       ]
     },
     {
@@ -120,12 +120,12 @@
       "age": 37,
       "shirtNumber": 10,
       "clues": [
-        "Experienced midfielder",
-        "Won Ballon d'Or",
-        "Plays in Spain",
-        "Skilled passer",
-        "Won Champions League",
-        "FIFA best player"
+        "A maestro of the midfield in the contemporary era",
+        "From a country with a rich history and stunning coastline",
+        "Renowned for his exceptional dribbling and vision",
+        "Has played for top clubs in England, Germany, and Spain",
+        "The first from his nation to win the Ballon d'Or",
+        "Still orchestrates the play for a Spanish football behemoth"
       ]
     },
     {
@@ -141,12 +141,12 @@
       "age": 28,
       "shirtNumber": 26,
       "clues": [
-        "Attacking fullback",
-        "Won Champions League",
-        "Plays in England",
-        "Good crosser",
-        "Signed from Hull",
-        "Scotland captain"
+        "A dynamic full-back of the modern game",
+        "From a nation known for its fierce warriors and beautiful landscapes",
+        "Blessed with endless energy and a dangerous delivery",
+        "Developed in Scotland before joining a Premier League giant",
+        "Has won numerous titles including the Champions League",
+        "Patrols the left flank for a dominant Liverpool side"
       ]
     },
     {
@@ -162,12 +162,12 @@
       "age": 29,
       "shirtNumber": 14,
       "clues": [
-        "German fullback",
-        "Plays in Germany",
-        "Good going forward",
-        "Signed from Hoffenheim",
-        "Won U21 Euros",
-        "World Cup winner"
+        "A modern full-back with a penchant for attacking",
+        "From a nation with a proud football history and culture",
+        "Known for his set-piece expertise and assists",
+        "Has played for several top clubs in his home country",
+        "Part of a new wave of talented players from his nation",
+        "Now plies his trade for a Yellow and Black outfit"
       ]
     },
     {
@@ -183,12 +183,12 @@
       "age": 28,
       "shirtNumber": 9,
       "clues": [
-        "African striker",
-        "Plays in Germany",
-        "Good in air",
-        "Signed from West Ham",
-        "Won U20 World Cup",
-        "Scored in Champions League"
+        "A physical presence up front in the modern game",
+        "From a nation on the Atlantic coast of Africa",
+        "A prolific goal-scorer with a strong aerial game",
+        "Has played in top leagues in France, England, and Germany",
+        "A key figure in his national team's successes",
+        "Now leads the line for a German football powerhouse"
       ]
     },
     {
@@ -204,12 +204,12 @@
       "age": 19,
       "shirtNumber": 22,
       "clues": [
-        "Young English midfielder",
-        "Plays in Germany",
-        "Skilled dribbler",
-        "Signed from Birmingham",
-        "Won FA Cup",
-        "EURO U21 finalist"
+        "A teenage sensation in the midfield",
+        "From the nation that invented the beautiful game",
+        "Exceptional dribbler with a keen eye for goal",
+        "Rose to fame in the English Championship before a big move",
+        "Already a regular for his national team at a young age",
+        "Currently develops his craft in the Bundesliga"
       ]
     },
     {
@@ -225,12 +225,12 @@
       "age": 24,
       "shirtNumber": 2,
       "clues": [
-        "Young French defender",
-        "Plays in Germany",
-        "Strong in tackle",
-        "Signed from Leipzig",
-        "Won U17 Euros",
-        "French league winner"
+        "A young and athletic defender of the modern era",
+        "From a nation famous for its fashion, art, and cuisine",
+        "Impressive with his speed, strength, and reading of the game",
+        "Developed in France before a big move to Germany",
+        "Part of a new generation of talented defenders",
+        "Now plays for one of the biggest clubs in the Bundesliga"
       ]
     },
     {
@@ -246,12 +246,12 @@
       "age": 30,
       "shirtNumber": 11,
       "clues": [
-        "African winger",
-        "Won Champions League",
-        "Plays in England",
-        "Fast and skilled",
-        "Signed from Roma",
-        "African Footballer"
+        "A prolific goal-scorer in the modern forward line",
+        "From a nation on the banks of the Nile River",
+        "Known for his blistering speed and clinical finishing",
+        "Has played in top leagues in Switzerland, England, and Italy",
+        "A record-breaker in his position and for his country",
+        "Now a key figure in a dominant Liverpool attack"
       ]
     },
     {
@@ -267,12 +267,12 @@
       "age": 25,
       "shirtNumber": 21,
       "clues": [
-        "Dutch midfielder",
-        "Plays in Spain",
-        "Skilled passer",
-        "Signed from Ajax",
-        "Won U19 Euros",
-        "La Liga winner"
+        "A creative and visionary midfielder of the modern game",
+        "From a nation famous for its cheese, tulips, and football",
+        "Exceptional with his passing range and vision",
+        "Rose to fame in the Eredivisie before a big move to Spain",
+        "Has won numerous titles including the Champions League",
+        "Currently orchestrates the play for a Catalan giant"
       ]
     },
     {
@@ -288,12 +288,12 @@
       "age": 21,
       "shirtNumber": 32,
       "clues": [
-        "Young Croatian defender",
-        "Plays in Germany",
-        "Strong in air",
-        "Signed from Dinamo",
-        "Won U21 Euros",
-        "Croatian league winner"
+        "A young and talented defender of the modern era",
+        "From a nation with a rich history and stunning natural beauty",
+        "Impressive with his speed, agility, and ball control",
+        "Has already played in the Champions League at a young age",
+        "Part of a new wave of talented young defenders",
+        "Currently plays for a Red Bull-backed Bundesliga side"
       ]
     },
     {
@@ -309,12 +309,12 @@
       "age": 26,
       "shirtNumber": 16,
       "clues": [
-        "Spanish midfielder",
-        "Plays in England",
-        "Skilled passer",
-        "Signed from Atletico",
-        "Won U19 Euros",
-        "Premier League winner"
+        "A deep-lying playmaker of the modern midfield",
+        "From a nation famous for its passionate football culture",
+        "Known for his exceptional passing range and vision",
+        "Developed in Spain before joining a Premier League giant",
+        "Has won numerous titles including the Premier League",
+        "Now dictates the tempo for a dominant Manchester side"
       ]
     },
     {
@@ -330,12 +330,12 @@
       "age": 28,
       "shirtNumber": 20,
       "clues": [
-        "Portuguese midfielder",
-        "Plays in England",
-        "Skilled dribbler",
-        "Signed from Monaco",
-        "Won U21 Euros",
-        "Premier League winner"
+        "A skilled and versatile midfielder of the modern game",
+        "From a nation on the Iberian Peninsula",
+        "Exceptional with his dribbling, vision, and work rate",
+        "Has played in top leagues in Portugal, France, and England",
+        "A key figure in his national team's successes",
+        "Currently plays for a Manchester side with a strong squad"
       ]
     },
     {
@@ -351,12 +351,12 @@
       "age": 22,
       "shirtNumber": 47,
       "clues": [
-        "Young English midfielder",
-        "Plays in England",
-        "Skilled passer",
-        "Won U17 World Cup",
-        "Signed from City youth",
-        "Premier League winner"
+        "A talented and dynamic young midfielder",
+        "From the nation that invented the beautiful game",
+        "Exceptional with his vision, passing, and goal-scoring",
+        "Has developed through the youth ranks of a Manchester giant",
+        "Already a regular for his national team at a young age",
+        "Currently plays for a dominant Premier League side"
       ]
     },
     {
@@ -372,12 +372,12 @@
       "age": 28,
       "shirtNumber": 14,
       "clues": [
-        "French defender",
-        "Plays in England",
-        "Strong in air",
-        "Signed from Athletic",
-        "Won U19 Euros",
-        "Premier League winner"
+        "A dominant and athletic defender of the modern era",
+        "From a nation famous for its cuisine, fashion, and culture",
+        "Impressive with his speed, strength, and reading of the game",
+        "Has played in top leagues in Spain and England",
+        "A key figure in his team's successes and defensive solidity",
+        "Now marshals the defense of a Manchester football giant"
       ]
     },
     {
@@ -393,12 +393,12 @@
       "age": 29,
       "shirtNumber": 13,
       "clues": [
-        "Portuguese fullback",
-        "Plays in Germany",
-        "Good going forward",
-        "Signed from Lorient",
-        "Won U21 Euros",
-        "EURO winner"
+        "A dynamic and attack-minded full-back",
+        "From a nation on the Iberian Peninsula",
+        "Known for his speed, skill, and set-piece expertise",
+        "Has played in top leagues in France and Germany",
+        "A key figure in his national team's successes",
+        "Currently plays for a Yellow and Black outfit in the Bundesliga"
       ]
     },
     {
@@ -414,12 +414,12 @@
       "age": 31,
       "shirtNumber": 6,
       "clues": [
-        "Experienced midfielder",
-        "Plays in England",
-        "Skilled passer",
-        "Signed from Bayern",
-        "Won Champions League",
-        "La Liga winner"
+        "A visionary and creative midfielder of the modern game",
+        "From a nation famous for its passionate football culture",
+        "Exceptional with his passing range, vision, and control",
+        "Has played for top clubs in Spain, Germany, and England",
+        "A key figure in his team's midfield and creative play",
+        "Now orchestrates the play for a Merseyside football powerhouse"
       ]
     }
   ]
